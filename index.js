@@ -24,3 +24,21 @@ if (makan < makan1) {
 }
 
 # Level 2
+
+var makan = 15, makan1 = 9, makan2 = 12
+
+makan < makan1 ? (
+	console.log('Saya sedang sarapan')
+) : makan < makan2 ? (
+    console.log('Saya sedang makan siang')
+) : (
+	console.log('Saya sedang makan malam')
+);
+
+#Level 3
+
+
+
+
+
+
