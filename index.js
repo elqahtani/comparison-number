@@ -1,4 +1,4 @@
-# Level 0
+// Level 0
 
 let number1 = 5;
 let number2 = 10; 
@@ -8,7 +8,7 @@ if (number1 < number2) {
 	console.log(number1 + 'lebih besar dari' + number2);
 }
 
-# Level 1
+// Level 1
 
 let makan = 15
 
@@ -23,7 +23,7 @@ if (makan < makan1) {
 	console.log('Saya Makan malam')
 }
 
-# Level 2
+// Level 2
 
 var makan = 15, makan1 = 9, makan2 = 12
 
@@ -35,7 +35,7 @@ makan < makan1 ? (
 	console.log('Saya sedang makan malam')
 );
 
-#Level 3
+// Level 3
 
 
 
